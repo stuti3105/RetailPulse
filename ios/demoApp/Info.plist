@@ -37,6 +37,10 @@
 	</dict>
 	<key>UILaunchStoryboardName</key>
 	<string>SplashScreen</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>allow access </string>
+	<key>NSCameraUsageDescription</key>
+	<string>allow access</string>
 	<key>UIRequiredDeviceCapabilities</key>
 	<array>
 		<string>armv7</string>
